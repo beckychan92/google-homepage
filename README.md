@@ -1,10 +1,9 @@
-//google-homepage
 
 <ul>
-    <li><a href="name.asp">+Becky</a></li>
-    <li><a href="gmail.asp">Gmail</a></li>
-    <li><a href="image.asp">Image</a></li>
-    <li><a href="hangout.asp">Hangout</a></li>
+<li><a href="#name">+Becky</a></li>
+<li><a href="#gmail">Gmail</a></li>
+<li><a href="#image">Image</a></li>
+<li><a href="#hangout">Hangout</a></li>
 </ul>
 
 
