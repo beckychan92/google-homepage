@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 
 
 <li><a href="#name">+Becky</a></li>
